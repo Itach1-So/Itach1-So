@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Itachi
 
-<!--
-**Itach1-So/Itach1-So** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Into hacking and cybersecurity — not just the theory, the actual work.  
+🐍 Know enough Python to build small tools and automate stuff.  
+🎨 Currently mastering HTML & CSS. Because you can't break what you don't understand.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ What I'm doing
+
+- Learning front-end so I can understand web security better  
+- Writing Python scripts for recon and simple pentesting  
+- Breaking things (on my own machines, mostly)
+
+---
+
+### 📁 What you'll find here
+
+Small projects, messy experiments, and things that didn't work the first time.  
+I don't over-polish. I just build, learn, and move on.
+
+---
+
+### 🎯 Goal
+
+Get good enough to build tools that actually help — and understand how the web really works from the inside.
+
+---
+
+*No fake portfolios. Just code and curiosity.*
