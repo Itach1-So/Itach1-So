@@ -1,30 +1,41 @@
-# 👋 Hi, I'm Itachi
+<div align="center">👋 Hi, I'm Itachi
 
-🧠 Into hacking and cybersecurity — not just the theory, the actual work.  
-🐍 Know enough Python to build small tools and automate stuff.  
-🎨 Currently mastering HTML & CSS. Because you can't break what you don't understand.
+Software Developer • Web • Security
+
+Building projects, learning deeply, and improving every day.
+
+</div>---
+
+💻 Technologies
+
+Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>Frameworks & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>---
+
+🔥 Interests
+
+- Web Design & Development
+- Cybersecurity
+- Ethical Hacking
 
 ---
 
-### ⚡ What I'm doing
+🎯 Currently Learning
 
-- Learning front-end so I can understand web security better  
-- Writing Python scripts for recon and simple pentesting  
-- Breaking things (on my own machines, mostly)
-
----
-
-### 📁 What you'll find here
-
-Small projects, messy experiments, and things that didn't work the first time.  
-I don't over-polish. I just build, learn, and move on.
+- C++
+- Assembly
+- Better software engineering practices
 
 ---
 
-### 🎯 Goal
+📌 Vision
 
-Get good enough to build tools that actually help — and understand how the web really works from the inside.
-
----
-
-*No fake portfolios. Just code and curiosity.*
+Become a professional developer through real projects, continuous learning, and understanding software at a deeper level.
