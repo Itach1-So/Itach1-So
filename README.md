@@ -66,7 +66,7 @@ Become a professional **Web Developer** through building real-world projects, ma
   <a href="https://twitter.com/Itach1_so">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Itach1-so">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
