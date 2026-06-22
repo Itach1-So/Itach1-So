@@ -2,9 +2,9 @@
   
 # 👋 Hi, I'm Itachi
 
-**Web Developer • Security Enthusiast • Lifelong Learner**
+**Web Developer • Backend Developer • Lifelong Learner**
 
-Building web experiences, exploring security, and growing every day.
+Building web applications, developing backend systems, and improving every day.
 
 </div>
 
@@ -42,8 +42,6 @@ Building web experiences, exploring security, and growing every day.
 ## 🔥 Interests
 
 - 🌐 Web Design & Development
-- 🛡️ Cybersecurity
-- 🔓 Ethical Hacking
 - 📱 Web Security
 - ⚡ Performance Optimization
 
@@ -51,7 +49,7 @@ Building web experiences, exploring security, and growing every day.
 
 ## 📌 Vision
 
-Become a professional **Web Developer** through building real-world projects, mastering security principles, and understanding the web at a deeper level. 
+Become a professional Full-Stack Web Developer by building real-world projects, improving problem-solving skills, and continuously learning modern technologies.
 
 *Every day is an opportunity to learn something new!*
 
@@ -76,7 +74,5 @@ Become a professional **Web Developer** through building real-world projects, ma
 <div align="center">
   
 **💻 Code • 🔒 Learn • 🚀 Grow**
-
-*"Security is not a product, it's a process."*
 
 </div>
